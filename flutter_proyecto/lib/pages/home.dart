@@ -55,7 +55,7 @@ class HomePage extends StatelessWidget {
                   elevation: 5,
                   side: const BorderSide(width: 2),
                 ), 
-                child: const Text("Boton"),),
+                child: const Text("Iniciar Prueba"),),
                OutlinedButton(
                 onPressed: (){},
                 style: OutlinedButton.styleFrom(
@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                   elevation: 5,
                   side: const BorderSide(width: 2),
                 ), 
-                child: const Text("Boton"),
+                child: const Text("Repasar"),
                 )
           ],
             ),
